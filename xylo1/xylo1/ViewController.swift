@@ -40,7 +40,7 @@ class ViewController: UIViewController {
              
              print(error)
          }
-       audioPlayer.play()
+        audioPlayer.play()
     }
 }
  
